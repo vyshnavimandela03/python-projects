@@ -1,0 +1,4 @@
+pip inatall pandas
+pip install scikit-learn
+pip install spacy
+python -m spacy download en_core_web_sm
